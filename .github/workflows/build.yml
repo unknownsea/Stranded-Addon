@@ -2,7 +2,7 @@ name: build
 on:
   push:
     branches:
-      - main  # Change if needed
+      - master  # Change if needed
 
 permissions:
   contents: write  # Required to create a release
