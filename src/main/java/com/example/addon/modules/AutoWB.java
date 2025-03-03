@@ -16,7 +16,7 @@ public class AutoWB extends Module {
     private void onChatReceived(ReceiveMessageEvent event) {
         String message = event.getMessage().getString();
         if (message.contains("/wb")) {
-            MinecraftClient.getInstance().player.networkHandler.sendChatMessage("/wb");
+            MinecraftClient.getInstance().player.networkHandler.sendCommand("/wb");
         }
     }
 }

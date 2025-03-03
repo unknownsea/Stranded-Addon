@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "stranded-addon",
   "version": "${version}",
   "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "description": "An Meteor Client addon for stranded.",
   "authors": [
-    "seasnail"
+    "sea"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
