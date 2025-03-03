@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "stranded-addon",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "Stranded Addon",
   "description": "An Meteor Client addon for stranded.",
   "authors": [
     "sea"
